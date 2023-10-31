@@ -1,3 +1,4 @@
 test
 
 GitHub test!
+こんにちは！
